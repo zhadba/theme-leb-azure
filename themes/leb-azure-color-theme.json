@@ -2,10 +2,26 @@
 	"name": "leb-azure",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#263238",
-		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"editorGroupHeader.tabsBackground": "#0d0530",
+		"editorLineNumber.foreground": "#0d98ba",
+		"editorLineNumber.activeForeground": "#4c00ff",
+		"editor.background": "#090125",
+		"editor.foreground": "#bbbbbb",
+		"activityBarBadge.background": "#1c1046",
+		"sideBarTitle.foreground": "#336186",
+		"sideBar.background": "#0d0530",
+		"sideBarSectionHeader.background": "#1e085a",
+		"activityBar.background": "#0c0c0c",
+		"activityBar.foreground": "#ffffff",
+		"activityBar.inactiveForeground": "#0d98ba",
+		"titleBar.activeBackground": "#0c0c0c",
+		"menu.background": "#000000",
+		"button.background": "#1e085a",
+		"button.foreground": "#3ac6e9",
+		"tab.activeBackground": "#090125",
+		"tab.inactiveBackground": "#0f0249",
+		"tab.inactiveForeground": "#0d98ba",
+		"tab.border": "#090125"
 	},
 	"tokenColors": [
 		{
@@ -16,7 +32,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#546E7A"
+				"foreground": "#281fb1"
 			}
 		},
 		{
